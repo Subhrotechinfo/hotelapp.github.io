@@ -1,0 +1,132 @@
+		.body {
+			      font: 20px Montserrat, sans-serif;
+			      line-height: 1.8;
+			      color: #f5f6f7;
+  				}
+
+				
+		h1{
+					text-align: center;
+					font-family: "Courier New", Courier, monospace;	
+					
+			}
+			
+		.container-fluid ul {
+				    list-style-type: none;
+				    margin: 0;
+				    padding: 0;
+				    overflow: hidden;
+				    background-color: #f2f2f2;	
+				}
+				
+		.container-fluid ul li {
+	    			float: right;
+					 
+				}
+
+		.container-fluid li a {
+				    display: block;
+				    color: #808080;
+				    text-align: center;
+				    padding: 14px 16px; 
+					font-family: "Courier New", Courier, monospace;
+					text-decoration:none;
+				}
+
+		.container-fluid li a:hover {
+    				background-color: #bcf6ea;
+				}		
+				
+		.logo {
+ 			        font-size: 20px;
+				    margin-bottom: 20px;
+				    color: #1abc9c;
+				}
+		.active{
+					background-color:#e6fff2
+					
+		}
+		.container-fluid{
+					
+		
+		}
+		
+		.acc-bg{
+					padding:10px 0 0 0 ;
+					background-color:#f2f2f2;
+		}
+		.accimg{
+					width:300px;
+					height:300px;
+					border-radius:50%;
+					float:left;
+					
+					
+		}
+		h3{	 	
+			font-size: 26px;
+			text-align: justify;
+			padding: 20px 20px 20px 350px;  
+			font-family:"Comic Sans MS", cursive, sans-serif;
+		}
+		
+		.rmimg{
+					width:300px;
+					height:300px;
+					border-radius:8px;
+					float:right;	
+		}			
+		h2 ,ul{
+			font-family:"Comic Sans MS", cursive, sans-serif;
+		}
+				
+		h5{
+			text-align:center;
+			font-family:"Comic Sans MS", cursive, sans-serif;
+			font-size: 18px;
+		}
+		#imrow,#imrow2,#imrow3{
+			padding : 40px 20px 40px 80px;
+		
+		}
+			
+		.abtbg{
+			background-image: url("img/abt1.jpg");
+			height:500px;
+			width:100%;
+			/* background-position: center bottom; */
+			/* background-repeat: repeat-x; */
+		}
+			
+		#abtp{
+			font-family:"Lucida Console", Monaco, monospace;
+			color:#a6a6a6;	
+		
+		}
+		#lblsc{
+			font-size:17px;
+			color:#a6a6a6;
+			font-family:"Lucida Console", Monaco, monospace;
+		}
+		
+		#txt{
+			/* textbox */
+			width :600px;
+			height :35px;
+		}
+		
+		.subbg{
+			background-color:#f2f2f2;
+			padding:50px 0 50px 320px;	
+		}
+		#btn1{
+			border:none;
+			color:#a6a6a6;
+			background-color:white;
+			font-size:17px;	
+		}
+		
+		#gal1,#gal2{
+			padding : 20px 50px 20px 50px;
+		}
+		
